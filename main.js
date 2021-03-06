@@ -85,6 +85,7 @@ function computing() {
 }
 //#endregion
 
+//#endregion 計算冷氣費用
 function displayAirConPanel() {
     target = event.target
     airConPeople = this.children[2].value
@@ -194,7 +195,9 @@ function computingAir() {
         }
     }
 }
+//#endregion
 
+//#region 計算公用電費與最終結果
 function displayPublicPowerPanel() {
     target = event.target
     let powerBill = this.children[2].value
@@ -268,6 +271,7 @@ function displayPubPower(totalpubPower) {
         </section>`
     return htmlContent
 }
+
 
 function finallyResult() {
     target = event.target
@@ -353,3 +357,4 @@ function displayAirBill(airTenants) {
     })
     return htmlContent
 }
+//#endregion
