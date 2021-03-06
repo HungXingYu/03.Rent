@@ -59,3 +59,4 @@
 
 
 1. [CodePen](https://codepen.io/Clare46/pen/poEKryW)
+2. [GitHub Pages](https://hungxingyu.github.io/03.Rent/)
