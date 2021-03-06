@@ -1,0 +1,68 @@
+﻿/* Header */
+header {
+    height: 60px;
+    color: #666666;
+    box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.08);
+}
+
+nav {
+    height: 100%;
+    padding: 0 20px;
+}
+
+.nav-title {
+    font-weight: bold;
+    letter-spacing: 1px;
+    vertical-align: middle;
+}
+
+/*小標題*/
+h5 {
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+h6 {
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+#Water > h5 {
+    background-color: rgba(0, 148, 255,0.8);
+}
+
+#Power > h5 {
+    background-color: rgb(245, 129, 187);
+}
+
+#Power  h6 {
+    background-color: rgba(245, 129, 187,0.6);
+}
+
+#airConTitle p, #publicPowerTitle p {
+    vertical-align: middle !important;
+    font-size: 17px;
+    padding-top: 12px;
+}
+
+#airConTitle input, #publicPowerTitle input {
+    font-size: 20px;
+}
+
+
+/*table*/
+.table td {
+    vertical-align: middle !important;
+}
+
+tbody > tr{
+    height:64px
+}
+
+table > tbody > tr .text-right {
+    width: 10px;
+}
+
+tbody > tr > td > input{
+    width:100%;
+}
