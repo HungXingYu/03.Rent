@@ -2,7 +2,6 @@
 
 > ## 使用語言
 
----
 
 1. HTML
 2. CSS
@@ -10,7 +9,6 @@
 
 > ## 使用說明
 
----
 
 ### 1. 水費
 
@@ -59,6 +57,5 @@
 
 > ## 連結
 
----
 
-4. [CodePen](https://codepen.io/Clare46/pen/poEKryW)
+1. [CodePen](https://codepen.io/Clare46/pen/poEKryW)
